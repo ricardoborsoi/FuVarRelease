@@ -75,7 +75,6 @@ N2  = M2/decimFactor;
 
 
 % Get MSI and HR HSI
-% Zh = HSI;
 Ym = MSI;
 Zh = denoising(HSI);
 
