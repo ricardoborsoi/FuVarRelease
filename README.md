@@ -6,7 +6,10 @@ Most Hyperspectral (HS) and Multispectral (MS) image fusion models assume that b
 
 
 The code is implemented in MATLAB and includes:  
+-  example1.m                - a demo script comparing the algorithms (Synthetic image)  
 -  example2.m                - a demo script comparing the algorithms (Paris image)  
+-  example3.m                - a demo script comparing the algorithms (Lake Tahoe image)  
+-  example4.m                - a demo script comparing the algorithms (Ivanpah Playa image)  
 -  ./FuVar/                  - contains the MATLAB files associated with the FuVar algorithm  
 -  ./utils/                  - useful functions, metrics and other methods  
 -  ./DATA/                   - data files used in the examples  
@@ -25,7 +28,7 @@ publication:
 
 
 ## INSTALLING & RUNNING:
-Just start MATLAB and run example1.m or example2.m.
+Just start MATLAB and run, e.g., example1.m or example2.m.
 
 
 ## NOTES:
